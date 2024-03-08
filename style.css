@@ -1,12 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: #6F256F;
+  --navColor3: #983352;
+  --navColor4: #609732;
+  --navColor5: #91A437;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: "Nunito", sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
